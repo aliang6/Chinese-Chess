@@ -25,27 +25,6 @@ The user compiles the java files and opens the start screen to be greeted with f
   - Quit - exits the application
 
 # Technical
-## UML Diagrams
-### UML Diagram Overview
-- [[https://github.com/aliang6/Chinese-Chess/blob/master/img/OverviewUMLDiagram.png|alt=OverviewUMLDiagram]]
-### Project Overview
-- [[https://github.com/aliang6/Chinese-Chess/blob/master/img/ProjectOverview.png|alt=ProjectOverview]]
-### User Use Cases
-- [[https://github.com/aliang6/Chinese-Chess/blob/master/img/UseCaseDiagram.png|alt=UseCaseDiagram]]
-### Java APIs
-- [[https://github.com/aliang6/Chinese-Chess/blob/master/img/JavaAPIs.png|alt=JavaAPIs]]
-### Project Classes
-- [[https://github.com/aliang6/Chinese-Chess/blob/master/img/DetailedProjectClasses.png|alt=ProjectClasses]]
-### Sprite Classes
-- [[https://github.com/aliang6/Chinese-Chess/blob/master/img/DetailedSpriteClasses.png|alt=SpriteClasses]]
-### Sprite Data Models
-- [[https://github.com/aliang6/Chinese-Chess/blob/master/img/DetailedSpriteDataModels.png|alt=SpriteDataModels]]
-### Event Handlers
-- [[https://github.com/aliang6/Chinese-Chess/blob/master/img/DetailedEventHandlers.png|alt=EventHandlers]]
-### Mouse Event Sequences
-- [[https://github.com/aliang6/Chinese-Chess/blob/master/img/MouseEventSequences.png|alt=MouseEventSequences]]
-
-
 ## Views
 - Start Screen
 - About Screen
